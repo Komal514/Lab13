@@ -1,0 +1,38 @@
+﻿@using Activity_01.Components.Models
+@page "/servers"
+
+<h3>Servers</h3>
+<br />
+
+<ul>
+    @foreach (var city in CitiesRepository.GetCities())
+    {
+        <li>
+            <img src="images/@city.ToLower().Replace(" ", "") + " .png" alt="@city" style="width: 100px; height: auto;" />
+            @city
+        </li>
+    }
+</ul>
+
+@foreach (var city in cities)
+{
+    <button type="button" class="btn btn-primary">@city</button>
+    <text>&nbsp;</text>
+}
+
+<ul>
+    @foreach (var server in servers)
+    {
+        <li>
+            @server.Name in @server.City
+            <span style="color:@(server.IsOnline ? "green" : "red")">
+                @(server.IsOnline ? "online" : "offline")
+            </span>
+        </li>
+    }
+</ul>
+
+@code {
+    private List<Server> servers = ServersRepository.GetServersByCity("Toronto");
+    private List<string> cities = CitiesRepository.GetCities();
+}
