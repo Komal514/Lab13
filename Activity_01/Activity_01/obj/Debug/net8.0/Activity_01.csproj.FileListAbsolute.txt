@@ -1,0 +1,58 @@
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.AssemblyInfoInputs.cache
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.AssemblyInfo.cs
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\bin\Debug\net8.0\appsettings.json
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.staticwebassets.runtime.json
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.exe
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.deps.json
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.runtimeconfig.json
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.dll
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.pdb
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets\msbuild.Activity_01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets\msbuild.build.Activity_01.props
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Activity_01.props
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Activity_01.props
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\scopedcss\bundle\Activity_01.styles.css
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\scopedcss\projectbundle\Activity_01.bundle.scp.css
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.dll
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\refint\Activity_01.dll
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.pdb
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.genruntimeconfig.cache
+C:\Users\Pakistan Traders\source\repos\Activity_01\Activity_01\obj\Debug\net8.0\ref\Activity_01.dll
+F:\Activity_01\Activity_01\bin\Debug\net8.0\appsettings.Development.json
+F:\Activity_01\Activity_01\bin\Debug\net8.0\appsettings.json
+F:\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.staticwebassets.runtime.json
+F:\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.exe
+F:\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.deps.json
+F:\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.runtimeconfig.json
+F:\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.dll
+F:\Activity_01\Activity_01\bin\Debug\net8.0\Activity_01.pdb
+F:\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.AssemblyInfoInputs.cache
+F:\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.AssemblyInfo.cs
+F:\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.csproj.CoreCompileInputs.cache
+F:\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.MvcApplicationPartsAssemblyInfo.cache
+F:\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets.build.json
+F:\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets.development.json
+F:\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets\msbuild.Activity_01.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets\msbuild.build.Activity_01.props
+F:\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Activity_01.props
+F:\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Activity_01.props
+F:\Activity_01\Activity_01\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Activity_01\Activity_01\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\Activity_01\Activity_01\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\Activity_01\Activity_01\obj\Debug\net8.0\scopedcss\bundle\Activity_01.styles.css
+F:\Activity_01\Activity_01\obj\Debug\net8.0\scopedcss\projectbundle\Activity_01.bundle.scp.css
+F:\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.dll
+F:\Activity_01\Activity_01\obj\Debug\net8.0\refint\Activity_01.dll
+F:\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.pdb
+F:\Activity_01\Activity_01\obj\Debug\net8.0\Activity_01.genruntimeconfig.cache
+F:\Activity_01\Activity_01\obj\Debug\net8.0\ref\Activity_01.dll

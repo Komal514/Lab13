@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Activity_01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Activity_01.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\images\\Montreal.jpg",
+      "PackagePath": "staticwebassets\\images\\Montreal.jpg"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\images\\calgory.jpg",
+      "PackagePath": "staticwebassets\\images\\calgory.jpg"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\images\\hallefex.jpg",
+      "PackagePath": "staticwebassets\\images\\hallefex.jpg"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\images\\ottama.jpg",
+      "PackagePath": "staticwebassets\\images\\ottama.jpg"
+    },
+    {
+      "Id": "F:\\Activity_01\\Activity_01\\wwwroot\\images\\toronto.jpg",
+      "PackagePath": "staticwebassets\\images\\toronto.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Activity_01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Activity_01.props",
+      "PackagePath": "build\\Activity_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Activity_01.props",
+      "PackagePath": "buildMultiTargeting\\Activity_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Activity_01.props",
+      "PackagePath": "buildTransitive\\Activity_01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
